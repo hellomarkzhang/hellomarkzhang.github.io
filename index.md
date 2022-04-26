@@ -1,31 +1,3 @@
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](https://github.com/hellomarkzhang/hellomarkzhang.github.io/blob/main/%E5%A3%B0%E5%BE%8B%E5%90%AF%E8%92%99.html) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hellomarkzhang/hellomarkzhang.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-  声律启蒙                           清·车万育 著   ----------------------- 页面 2-----------------------  声律启蒙                                                                  ·1·                                       目录   声律启蒙上卷……………………………………………02  下卷………………………………………………………12   ----------------------- 页面 3-----------------------  声律启蒙                                                                  ·2·                               声律启蒙上卷                                      一东         云对雨，雪对风,晚照对晴空。来鸿对去燕,宿鸟对鸣虫。  三尺剑，六钧弓,岭北对江东。人间清暑殿 ，天上广寒宫。两  岸晓烟杨柳绿，一园春雨杏花红。两鬓风霜，途次早行之客；  一蓑烟雨，溪边晚钓之翁。沿对革，异对同 ,白叟对黄童。江  风对海雾，牧子对渔翁。颜巷陋，阮途穷，冀北对辽东。池中  濯足水，门外打头风。梁帝讲经同泰寺，汉皇置酒未央宫。羞  看百炼青铜。        贫对富，塞对通,野叟对溪童。鬓皤对眉绿,齿皓对唇红。  天浩浩，日融融，佩剑对弯弓。半溪流水绿 ,千树落花红。野  渡燕穿杨柳雨,芳池鱼戏芰荷风。女子眉纤,额下现一弯新月；  男儿气壮，胸中吐万丈长虹。                                      二冬         春对夏，秋对冬,暮鼓对晨钟。观山对玩水,绿竹对苍松。  冯妇虎，叶公龙，舞蝶对鸣蛩。街泥双紫燕，课密几黄蜂。春  日园中莺恰恰，秋天寒外雁雍雍。秦岭云横，迢递八千远路；   ----------------------- 页面 4-----------------------  声律启蒙                                                                 ·3·   巫山雨洗，嵯峨十二危峰。明对暗,淡对浓,上智对中庸。镜奁  对衣笥,野杵对村舂。花灼烁,草蒙茸 ,九夏对三冬。台高名戏  
+马，斋小号蟠龙。手擘蟹螯从毕卓 ,身披鹤氅自王恭。五老峰  高，秀插云霄如玉笔；三姑石大，响传风雨若金镛。        仁对义，让对恭，禹舜对羲农。雪花对云叶，芍药对芙蓉。  陈后主，汉中宗，绣虎对雕龙。柳塘风淡淡，花圃月浓浓。春   日正宜朝看蝶，秋风那更夜闻蛩。战士邀功，必借干戈成勇武；  逸民适志，须凭诗酒养疏慵。                                      三江         楼对阁,户对窗,巨海对长江。蓉裳对蕙帐，玉斝对银釭。  青布幔，碧油幢，宝剑对金缸。忠心安社稷，利口覆家邦。世  祖中兴延马武，桀王失道杀龙逄。秋雨潇潇，漫烂黄花都满径；  春风袅袅，扶疏绿竹正盈窗。        旌对旆，盖对撞，故国对他邦。行山对万水，九泽对三江。  山岌岌，水淙淙，鼓振对钟撞。清风生酒舍，皓月照书窗。阵  上倒戈辛纣战，道旁系剑子婴降。夏日池塘，出沿浴波鸥对对；  春风帘幕，往来营业员垒燕双双。        铢对钅两，只对双，华岳对湘江。朝车对禁鼓，宿火对塞缸。  青琐闼，碧纱窗，汉社对周邦。笙箫鸣细细，钟鼓响摐摐。主  簿栖鸾名有览，治中展骥姓惟庞。苏武牧羊，雪屡餐于北海；  庄周鲋，水必决于西江。   ----------------------- 页面 5-----------------------  声律启蒙                                                                 ·4·                                      四支         茶对酒，赋对诗,燕子对莺儿。栽花对种竹,落絮对游丝。  四目颉，一只夔，鸲鹆对鹭鸶。半池红菡萏，一架白荼蘼。几  阵秋风能应候,一犁春雨甚知时。智伯恩深,国士吞变形之炭；  羊公德大，邑人竖堕泪之碑。        行对止，速对迟，舞剑对围棋。花笺对草字，竹简对毛锥。  汾水鼎，岘山碑，虎豹对熊罴。花开红锦绣，水漾碧琉璃。去  妇因探邻舍枣，出管恰从云里降；橹声咿轧，渔舟正向雪中移。        戈对甲，鼓对旗，紫燕对黄鹂。梅酸对李苦，青眼对白眉。  三弄笛，地围棋，雨打对风吹。海棠春睡早，杨柳昼眠迟。张  骏曾为槐树赋，杜陵不作海堂诗。晋士特奇，可比一斑之豹；  唐儒博识，堪为五总之龟。                                      五微         来对往，密对稀，燕舞对莺飞。风清对月朗，露重对烟微。  霜菊瘦，雨梅?肥，客路对渔矶。晚霞舒锦绣,朝露缀珠玑。夏  暑客思欹石枕，秋寒妇念寄边衣。春水才深，青草岸边渔父去；  夕阳半落，绿莎原上牧童归。        宽对猛，是对非，服美对乘肥。珊瑚对玳瑁，锦绣对珠玑。  
